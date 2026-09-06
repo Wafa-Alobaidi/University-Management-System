@@ -53,3 +53,11 @@ My contributions included:
 - Java Swing
 - Object-Oriented Programming
 - Data Structures
+
+## UML Diagram
+
+![UML Diagram](IMAGES/uml.png)
+
+## GUI
+
+![Student Registration GUI](IMAGES/GUI.png)
